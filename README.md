@@ -35,4 +35,3 @@ cd Simple_Shell
 
 ## AUTHORS(CONTRIBUTORS)
 
-- [ ] Add the image of the CONTRIBUTORS here
